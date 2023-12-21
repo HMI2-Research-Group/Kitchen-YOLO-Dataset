@@ -1,0 +1,67 @@
+{
+  "id": 24,
+  "created_username": " chaitanyaradon89@gmail.com, 1",
+  "created_ago": "1\u00a0week, 5\u00a0days",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "chaitanyaradon89@gmail.com"
+  },
+  "task": {
+    "id": 431,
+    "data": {
+      "image": "/data/local-files/?d=my_images/102.png"
+    },
+    "meta": {},
+    "created_at": "2023-06-18T06:53:27.385972Z",
+    "updated_at": "2023-06-18T09:13:49.247820Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 6,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "original_width": 640,
+      "original_height": 480,
+      "image_rotation": 0,
+      "value": {
+        "x": 34.45559145639127,
+        "y": 61.67512690355337,
+        "width": 21.69845238132971,
+        "height": 33.24873096446697,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Peas and Carrots"
+        ]
+      },
+      "id": "ud89ekOvvV",
+      "from_name": "labels",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2023-06-18T09:13:49.194224Z",
+  "updated_at": "2023-06-18T09:13:49.194246Z",
+  "draft_created_at": "2023-06-18T09:13:36.317358Z",
+  "lead_time": 25.062,
+  "last_action": null,
+  "project": 1,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

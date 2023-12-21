@@ -1,0 +1,187 @@
+{
+  "id": 232,
+  "created_username": " chaitanyaradon89@gmail.com, 1",
+  "created_ago": "1\u00a0week, 5\u00a0days",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "chaitanyaradon89@gmail.com"
+  },
+  "task": {
+    "id": 427,
+    "data": {
+      "image": "/data/local-files/?d=my_images/1.png"
+    },
+    "meta": {},
+    "created_at": "2023-06-18T06:53:27.342938Z",
+    "updated_at": "2023-06-18T16:37:11.395400Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 2,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "original_width": 640,
+      "original_height": 480,
+      "image_rotation": 0,
+      "value": {
+        "x": 54.44202918408041,
+        "y": 61.67512690355332,
+        "width": 16.941219546883968,
+        "height": 22.969543147208142,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Tomato Sauce"
+        ]
+      },
+      "id": "L0R5mHucJe",
+      "from_name": "labels",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 640,
+      "original_height": 480,
+      "image_rotation": 0,
+      "value": {
+        "x": 34.2633054531273,
+        "y": 30.456852791878102,
+        "width": 18.27501473199991,
+        "height": 30.710659898477115,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Pasta"
+        ]
+      },
+      "id": "8Oki2tzUaP",
+      "from_name": "labels",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 640,
+      "original_height": 480,
+      "image_rotation": 0,
+      "value": {
+        "x": 24.17512690355331,
+        "y": 72.9695431472081,
+        "width": 8.75721709464578,
+        "height": 12.436548223350258,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Mushrooms"
+        ]
+      },
+      "id": "tkeXuML8k9",
+      "from_name": "labels",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 640,
+      "original_height": 480,
+      "image_rotation": 0,
+      "value": {
+        "x": 73.85824169901049,
+        "y": 6.9796954314720825,
+        "width": 22.937443580177156,
+        "height": 44.289340101522896,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Chilli"
+        ]
+      },
+      "id": "dFzShfL49I",
+      "from_name": "labels",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 640,
+      "original_height": 480,
+      "image_rotation": 0,
+      "value": {
+        "x": 3.2359783293527107,
+        "y": 74.87309644670044,
+        "width": 10.279717195425816,
+        "height": 10.65989847715738,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Green Beans"
+        ]
+      },
+      "id": "zhIr91ooSt",
+      "from_name": "labels",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 640,
+      "original_height": 480,
+      "image_rotation": 0,
+      "value": {
+        "x": 11.610927769491417,
+        "y": 43.65482233502528,
+        "width": 18.46636653849865,
+        "height": 22.588832487309528,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Garlic"
+        ]
+      },
+      "id": "N17YnR5iq6",
+      "from_name": "labels",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 640,
+      "original_height": 480,
+      "image_rotation": 0,
+      "value": {
+        "x": 1.902837081972425,
+        "y": 58.75634517766504,
+        "width": 11.612453624207868,
+        "height": 12.055837563451764,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Butter"
+        ]
+      },
+      "id": "MyYFIf8M8c",
+      "from_name": "labels",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2023-06-18T16:37:11.323979Z",
+  "updated_at": "2023-06-18T16:37:11.324003Z",
+  "draft_created_at": "2023-06-18T16:21:05.069234Z",
+  "lead_time": 501.18,
+  "last_action": null,
+  "project": 1,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

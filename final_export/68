@@ -1,0 +1,67 @@
+{
+  "id": 68,
+  "created_username": " chaitanyaradon89@gmail.com, 1",
+  "created_ago": "1\u00a0week, 5\u00a0days",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "chaitanyaradon89@gmail.com"
+  },
+  "task": {
+    "id": 475,
+    "data": {
+      "image": "/data/local-files/?d=my_images/142.png"
+    },
+    "meta": {},
+    "created_at": "2023-06-18T06:53:27.864894Z",
+    "updated_at": "2023-06-18T09:27:09.442984Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 50,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "original_width": 640,
+      "original_height": 480,
+      "image_rotation": 0,
+      "value": {
+        "x": 24.651824865622903,
+        "y": 12.69035532994922,
+        "width": 40.829443300257864,
+        "height": 57.61421319796951,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Pasta"
+        ]
+      },
+      "id": "39y7hScUCp",
+      "from_name": "labels",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2023-06-18T09:27:09.388647Z",
+  "updated_at": "2023-06-18T09:27:09.388667Z",
+  "draft_created_at": "2023-06-18T09:27:02.195193Z",
+  "lead_time": 17.162,
+  "last_action": null,
+  "project": 1,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

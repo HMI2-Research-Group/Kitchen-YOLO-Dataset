@@ -1,0 +1,67 @@
+{
+  "id": 201,
+  "created_username": " chaitanyaradon89@gmail.com, 1",
+  "created_ago": "1\u00a0week, 5\u00a0days",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "chaitanyaradon89@gmail.com"
+  },
+  "task": {
+    "id": 607,
+    "data": {
+      "image": "/data/local-files/?d=my_images/72.png"
+    },
+    "meta": {},
+    "created_at": "2023-06-18T06:53:29.275292Z",
+    "updated_at": "2023-06-18T15:30:26.495220Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 182,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "original_width": 640,
+      "original_height": 480,
+      "image_rotation": 0,
+      "value": {
+        "x": 50.729944550609375,
+        "y": 54.82233502538069,
+        "width": 20.272593520456546,
+        "height": 30.837563451776685,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Corn"
+        ]
+      },
+      "id": "9uA50O2Bvt",
+      "from_name": "labels",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2023-06-18T15:30:26.441082Z",
+  "updated_at": "2023-06-18T15:30:26.441107Z",
+  "draft_created_at": "2023-06-18T15:30:23.962853Z",
+  "lead_time": 17.51,
+  "last_action": null,
+  "project": 1,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

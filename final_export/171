@@ -1,0 +1,67 @@
+{
+  "id": 171,
+  "created_username": " chaitanyaradon89@gmail.com, 1",
+  "created_ago": "1\u00a0week, 5\u00a0days",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "chaitanyaradon89@gmail.com"
+  },
+  "task": {
+    "id": 577,
+    "data": {
+      "image": "/data/local-files/?d=my_images/45.png"
+    },
+    "meta": {},
+    "created_at": "2023-06-18T06:53:28.965128Z",
+    "updated_at": "2023-06-18T15:20:09.479689Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 152,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "original_width": 640,
+      "original_height": 480,
+      "image_rotation": 0,
+      "value": {
+        "x": 44.06809966033738,
+        "y": 50.76142131979691,
+        "width": 22.365318833995637,
+        "height": 38.197969543147096,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Tomato Sauce"
+        ]
+      },
+      "id": "pl_D5Gsni5",
+      "from_name": "labels",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2023-06-18T15:20:09.421883Z",
+  "updated_at": "2023-06-18T15:20:09.421903Z",
+  "draft_created_at": "2023-06-18T15:20:02.109058Z",
+  "lead_time": 22.216,
+  "last_action": null,
+  "project": 1,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

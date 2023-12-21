@@ -1,0 +1,167 @@
+{
+  "id": 274,
+  "created_username": " chaitanyaradon89@gmail.com, 1",
+  "created_ago": "1\u00a0week, 4\u00a0days",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "chaitanyaradon89@gmail.com"
+  },
+  "task": {
+    "id": 593,
+    "data": {
+      "image": "/data/local-files/?d=my_images/6.png"
+    },
+    "meta": {},
+    "created_at": "2023-06-18T06:53:29.129123Z",
+    "updated_at": "2023-06-19T23:55:20.893297Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 168,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "original_width": 640,
+      "original_height": 480,
+      "image_rotation": 0,
+      "value": {
+        "x": 61.95953886235897,
+        "y": 44.796954314720736,
+        "width": 19.322187025965963,
+        "height": 28.68020304568525,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Chilli"
+        ]
+      },
+      "id": "fH2mYUSD-O",
+      "from_name": "labels",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 640,
+      "original_height": 480,
+      "image_rotation": 0,
+      "value": {
+        "x": 28.362414784269628,
+        "y": 31.852791878172564,
+        "width": 15.134868005357424,
+        "height": 32.360406091370564,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Pasta"
+        ]
+      },
+      "id": "jXFCEIU6DH",
+      "from_name": "labels",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 640,
+      "original_height": 480,
+      "image_rotation": 0,
+      "value": {
+        "x": 5.283421754244083e-16,
+        "y": 64.21319796954315,
+        "width": 8.185279187817262,
+        "height": 18.274111675126903,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Mushrooms"
+        ]
+      },
+      "id": "iXobtrKPqB",
+      "from_name": "labels",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 640,
+      "original_height": 480,
+      "image_rotation": 0,
+      "value": {
+        "x": 47.302458715297156,
+        "y": 71.19289340101524,
+        "width": 14.945042053575076,
+        "height": 22.84263959390861,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Tomato Sauce"
+        ]
+      },
+      "id": "EMxmmUdDaP",
+      "from_name": "labels",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 640,
+      "original_height": 480,
+      "image_rotation": 0,
+      "value": {
+        "x": 86.80146993879369,
+        "y": 83.88324873096438,
+        "width": 13.198530061206162,
+        "height": 14.340101522842655,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Corn"
+        ]
+      },
+      "id": "EacSFi2BEl",
+      "from_name": "labels",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 640,
+      "original_height": 480,
+      "image_rotation": 0,
+      "value": {
+        "x": 87.65688560766272,
+        "y": 54.822335025380696,
+        "width": 12.343114392337217,
+        "height": 26.3959390862944,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Bell Pepper"
+        ]
+      },
+      "id": "uS7sFUYXSv",
+      "from_name": "labels",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2023-06-19T23:55:20.832328Z",
+  "updated_at": "2023-06-19T23:55:20.832348Z",
+  "draft_created_at": "2023-06-18T16:23:55.958095Z",
+  "lead_time": 82.026,
+  "last_action": null,
+  "project": 1,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

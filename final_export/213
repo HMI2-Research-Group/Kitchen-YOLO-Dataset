@@ -1,0 +1,67 @@
+{
+  "id": 213,
+  "created_username": " chaitanyaradon89@gmail.com, 1",
+  "created_ago": "1\u00a0week, 5\u00a0days",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "chaitanyaradon89@gmail.com"
+  },
+  "task": {
+    "id": 619,
+    "data": {
+      "image": "/data/local-files/?d=my_images/83.png"
+    },
+    "meta": {},
+    "created_at": "2023-06-18T06:53:29.404433Z",
+    "updated_at": "2023-06-18T15:37:08.975248Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 194,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "original_width": 640,
+      "original_height": 480,
+      "image_rotation": 0,
+      "value": {
+        "x": 46.82722432815963,
+        "y": 58.75634517766495,
+        "width": 22.176582778439375,
+        "height": 33.50253807106596,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Cheese"
+        ]
+      },
+      "id": "Cbz7hP_Dx9",
+      "from_name": "labels",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2023-06-18T15:37:08.913040Z",
+  "updated_at": "2023-06-18T15:37:08.913061Z",
+  "draft_created_at": "2023-06-18T15:37:06.515122Z",
+  "lead_time": 12.867,
+  "last_action": null,
+  "project": 1,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

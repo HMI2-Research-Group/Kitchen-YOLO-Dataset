@@ -1,0 +1,67 @@
+{
+  "id": 186,
+  "created_username": " chaitanyaradon89@gmail.com, 1",
+  "created_ago": "1\u00a0week, 5\u00a0days",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "chaitanyaradon89@gmail.com"
+  },
+  "task": {
+    "id": 592,
+    "data": {
+      "image": "/data/local-files/?d=my_images/59.png"
+    },
+    "meta": {},
+    "created_at": "2023-06-18T06:53:29.118800Z",
+    "updated_at": "2023-06-18T15:26:05.475023Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 167,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "original_width": 640,
+      "original_height": 480,
+      "image_rotation": 0,
+      "value": {
+        "x": 50.25442990444245,
+        "y": 59.64467005076145,
+        "width": 18.558835032854283,
+        "height": 25.634517766497485,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Mushrooms"
+        ]
+      },
+      "id": "jsi_elJMoo",
+      "from_name": "labels",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2023-06-18T15:26:05.408876Z",
+  "updated_at": "2023-06-18T15:26:05.408899Z",
+  "draft_created_at": "2023-06-18T15:25:59.195776Z",
+  "lead_time": 16.163,
+  "last_action": null,
+  "project": 1,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

@@ -1,0 +1,67 @@
+{
+  "id": 102,
+  "created_username": " chaitanyaradon89@gmail.com, 1",
+  "created_ago": "1\u00a0week, 5\u00a0days",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "chaitanyaradon89@gmail.com"
+  },
+  "task": {
+    "id": 509,
+    "data": {
+      "image": "/data/local-files/?d=my_images/173.png"
+    },
+    "meta": {},
+    "created_at": "2023-06-18T06:53:28.224053Z",
+    "updated_at": "2023-06-18T10:12:15.302787Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 84,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "original_width": 640,
+      "original_height": 480,
+      "image_rotation": 0,
+      "value": {
+        "x": 37.119538459238875,
+        "y": 12.563451776649744,
+        "width": 30.5517813377154,
+        "height": 59.13705583756336,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Chilli"
+        ]
+      },
+      "id": "qc1JVMQwxm",
+      "from_name": "labels",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2023-06-18T10:12:15.249274Z",
+  "updated_at": "2023-06-18T10:12:15.249298Z",
+  "draft_created_at": "2023-06-18T10:12:10.727747Z",
+  "lead_time": 17.654,
+  "last_action": null,
+  "project": 1,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

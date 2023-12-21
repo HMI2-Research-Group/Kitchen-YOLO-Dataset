@@ -1,0 +1,67 @@
+{
+  "id": 22,
+  "created_username": " chaitanyaradon89@gmail.com, 1",
+  "created_ago": "1\u00a0week, 5\u00a0days",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "chaitanyaradon89@gmail.com"
+  },
+  "task": {
+    "id": 429,
+    "data": {
+      "image": "/data/local-files/?d=my_images/100.png"
+    },
+    "meta": {},
+    "created_at": "2023-06-18T06:53:27.364108Z",
+    "updated_at": "2023-06-18T09:12:52.617295Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 4,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "original_width": 640,
+      "original_height": 480,
+      "image_rotation": 0,
+      "value": {
+        "x": 53.01442648924507,
+        "y": 50.5076142131979,
+        "width": 19.795957838171315,
+        "height": 30.32994923857873,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Green Beans"
+        ]
+      },
+      "id": "_AgAFwwDyY",
+      "from_name": "labels",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2023-06-18T09:12:52.562115Z",
+  "updated_at": "2023-06-18T09:12:52.562137Z",
+  "draft_created_at": "2023-06-18T09:12:30.146634Z",
+  "lead_time": 33.493,
+  "last_action": null,
+  "project": 1,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

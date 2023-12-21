@@ -1,0 +1,67 @@
+{
+  "id": 57,
+  "created_username": " chaitanyaradon89@gmail.com, 1",
+  "created_ago": "1\u00a0week, 5\u00a0days",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "chaitanyaradon89@gmail.com"
+  },
+  "task": {
+    "id": 464,
+    "data": {
+      "image": "/data/local-files/?d=my_images/132.png"
+    },
+    "meta": {},
+    "created_at": "2023-06-18T06:53:27.748078Z",
+    "updated_at": "2023-06-18T09:24:04.175211Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 39,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "original_width": 640,
+      "original_height": 480,
+      "image_rotation": 0,
+      "value": {
+        "x": 36.73857868020302,
+        "y": 18.020304568527912,
+        "width": 46.16063813452342,
+        "height": 67.25888324873105,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Garlic"
+        ]
+      },
+      "id": "UkuBm0gHKO",
+      "from_name": "labels",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2023-06-18T09:24:04.122252Z",
+  "updated_at": "2023-06-18T09:24:04.122277Z",
+  "draft_created_at": "2023-06-18T09:24:02.276675Z",
+  "lead_time": 11.648,
+  "last_action": null,
+  "project": 1,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

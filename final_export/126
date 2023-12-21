@@ -1,0 +1,67 @@
+{
+  "id": 126,
+  "created_username": " chaitanyaradon89@gmail.com, 1",
+  "created_ago": "1\u00a0week, 5\u00a0days",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "chaitanyaradon89@gmail.com"
+  },
+  "task": {
+    "id": 533,
+    "data": {
+      "image": "/data/local-files/?d=my_images/195.png"
+    },
+    "meta": {},
+    "created_at": "2023-06-18T06:53:28.480847Z",
+    "updated_at": "2023-06-18T10:37:37.236392Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 108,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "original_width": 640,
+      "original_height": 480,
+      "image_rotation": 0,
+      "value": {
+        "x": 36.92877831069145,
+        "y": 15.736040609137051,
+        "width": 34.07375976037454,
+        "height": 63.071065989847696,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Bell Pepper"
+        ]
+      },
+      "id": "8NawZjk1HT",
+      "from_name": "labels",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2023-06-18T10:37:37.174881Z",
+  "updated_at": "2023-06-18T10:37:37.174902Z",
+  "draft_created_at": "2023-06-18T10:37:33.331764Z",
+  "lead_time": 14.897,
+  "last_action": null,
+  "project": 1,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

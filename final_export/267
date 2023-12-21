@@ -1,0 +1,227 @@
+{
+  "id": 267,
+  "created_username": " chaitanyaradon89@gmail.com, 1",
+  "created_ago": "1\u00a0week, 4\u00a0days",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "chaitanyaradon89@gmail.com"
+  },
+  "task": {
+    "id": 567,
+    "data": {
+      "image": "/data/local-files/?d=my_images/36.png"
+    },
+    "meta": {},
+    "created_at": "2023-06-18T06:53:28.856517Z",
+    "updated_at": "2023-06-19T23:45:08.079245Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 142,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "original_width": 640,
+      "original_height": 480,
+      "image_rotation": 0,
+      "value": {
+        "x": 0.0951776649746193,
+        "y": 36.54822335025381,
+        "width": 9.61294416243655,
+        "height": 21.065989847715734,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Green Beans"
+        ]
+      },
+      "id": "6DTKsaBiVp",
+      "from_name": "labels",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 640,
+      "original_height": 480,
+      "image_rotation": 0,
+      "value": {
+        "x": 24.078983901921298,
+        "y": 17.258883248730957,
+        "width": 23.510409103447394,
+        "height": 30.076142131979694,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Garlic"
+        ]
+      },
+      "id": "w8gkplv8sV",
+      "from_name": "labels",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 640,
+      "original_height": 480,
+      "image_rotation": 0,
+      "value": {
+        "x": 33.78766624739162,
+        "y": 65.736040609137,
+        "width": 8.185684006415489,
+        "height": 12.309644670050753,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Mushrooms"
+        ]
+      },
+      "id": "O3kL33AZkr",
+      "from_name": "labels",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 640,
+      "original_height": 480,
+      "image_rotation": 0,
+      "value": {
+        "x": 46.446171129447286,
+        "y": 46.192893401015226,
+        "width": 15.03860044415678,
+        "height": 18.781725888324853,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Pasta"
+        ]
+      },
+      "id": "6ABLmrkqNT",
+      "from_name": "labels",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 640,
+      "original_height": 480,
+      "image_rotation": 0,
+      "value": {
+        "x": 58.15355329949239,
+        "y": 61.16751269035533,
+        "width": 11.421319796954322,
+        "height": 12.690355329949249,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Chilli"
+        ]
+      },
+      "id": "QYNvd-mfNz",
+      "from_name": "labels",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 640,
+      "original_height": 480,
+      "image_rotation": 0,
+      "value": {
+        "x": 52.82332380188416,
+        "y": 78.17258883248728,
+        "width": 8.85180310166917,
+        "height": 8.629441624365477,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Tomato Sauce"
+        ]
+      },
+      "id": "KcvNqxY27h",
+      "from_name": "labels",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 640,
+      "original_height": 480,
+      "image_rotation": 0,
+      "value": {
+        "x": 62.62671671394647,
+        "y": 83.6294416243655,
+        "width": 4.759070088084016,
+        "height": 6.725888324873096,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Corn"
+        ]
+      },
+      "id": "9UHVSJOfZF",
+      "from_name": "labels",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 640,
+      "original_height": 480,
+      "image_rotation": 0,
+      "value": {
+        "x": 65.38546770306267,
+        "y": 69.28934010152275,
+        "width": 8.472400317241911,
+        "height": 11.04060913705583,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Bell Pepper"
+        ]
+      },
+      "id": "UQc7iyRa3z",
+      "from_name": "labels",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 640,
+      "original_height": 480,
+      "image_rotation": 0,
+      "value": {
+        "x": 68.81342063675757,
+        "y": 88.4517766497462,
+        "width": 4.09267073380079,
+        "height": 5.9644670050761075,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Cheese"
+        ]
+      },
+      "id": "7W4wpXEHk0",
+      "from_name": "labels",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2023-06-19T23:45:08.025847Z",
+  "updated_at": "2023-06-19T23:45:08.025872Z",
+  "draft_created_at": "2023-06-18T16:23:30.725637Z",
+  "lead_time": 152.985,
+  "last_action": null,
+  "project": 1,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

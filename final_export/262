@@ -1,0 +1,167 @@
+{
+  "id": 262,
+  "created_username": " chaitanyaradon89@gmail.com, 1",
+  "created_ago": "1\u00a0week, 4\u00a0days",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "chaitanyaradon89@gmail.com"
+  },
+  "task": {
+    "id": 562,
+    "data": {
+      "image": "/data/local-files/?d=my_images/31.png"
+    },
+    "meta": {},
+    "created_at": "2023-06-18T06:53:28.796153Z",
+    "updated_at": "2023-06-19T23:35:56.117443Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 137,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "original_width": 640,
+      "original_height": 480,
+      "image_rotation": 0,
+      "value": {
+        "x": 61.19833552180722,
+        "y": 47.08121827411172,
+        "width": 13.80166447819279,
+        "height": 24.238578680203034,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Garlic"
+        ]
+      },
+      "id": "4tjMbZAm5A",
+      "from_name": "labels",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 640,
+      "original_height": 480,
+      "image_rotation": 0,
+      "value": {
+        "x": 77.09356609062772,
+        "y": 78.29949238578682,
+        "width": 8.661510051504234,
+        "height": 11.294416243654815,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Mushrooms"
+        ]
+      },
+      "id": "g3sILepxr7",
+      "from_name": "labels",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 640,
+      "original_height": 480,
+      "image_rotation": 0,
+      "value": {
+        "x": 49.20626113392685,
+        "y": 66.37055837563454,
+        "width": 9.5183581554132,
+        "height": 14.593908629441653,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Green Beans"
+        ]
+      },
+      "id": "bZYraZxF6R",
+      "from_name": "labels",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 640,
+      "original_height": 480,
+      "image_rotation": 0,
+      "value": {
+        "x": 14.752444651389476,
+        "y": 53.93401015228424,
+        "width": 9.232669461028479,
+        "height": 15.609137055837557,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Peas and Carrots"
+        ]
+      },
+      "id": "hesuW-Axwx",
+      "from_name": "labels",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 640,
+      "original_height": 480,
+      "image_rotation": 0,
+      "value": {
+        "x": 36.928778310691435,
+        "y": 44.92385786802031,
+        "width": 11.802186156313647,
+        "height": 16.62436548223349,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Butter"
+        ]
+      },
+      "id": "JeK2EpSbsh",
+      "from_name": "labels",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 640,
+      "original_height": 480,
+      "image_rotation": 0,
+      "value": {
+        "x": 81.66119095253647,
+        "y": 55.964467005076116,
+        "width": 16.657336966245346,
+        "height": 21.700507614213173,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Pasta"
+        ]
+      },
+      "id": "-4ZhYhiYr3",
+      "from_name": "labels",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2023-06-19T23:35:56.060871Z",
+  "updated_at": "2023-06-19T23:35:56.060898Z",
+  "draft_created_at": "2023-06-18T16:23:14.308357Z",
+  "lead_time": 165.118,
+  "last_action": null,
+  "project": 1,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}
