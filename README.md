@@ -56,3 +56,5 @@ echo $LABEL_STUDIO_LOCAL_FILES_SERVING_ENABLED
 echo $LABEL_STUDIO_LOCAL_FILES_DOCUMENT_ROOT
 label-studio start --username hmi2@gmail.com --password test123 
 ```
+
+After running the label Studio server, import the images from the `my_images` folder and the annotations from `final_export` file into the label studio server. After importing the data, you can export it to whichever format you want.
