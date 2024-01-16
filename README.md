@@ -2,7 +2,7 @@
 This datset contains the Label Studio Rectangular labels for the following object classes inside respective container types:
 
 Translucent Containers:
-- bell Pepper  
+- Bell Pepper  
 - Pasta 
 - Chilli 
 - Garlic 
@@ -20,20 +20,20 @@ To train the dataset using your favorite deep neural Network/Frameworks, you can
 
 # Dataset Statistics
 # TODO Fix these
-| Class Name | Number of Images | Number of Labels |
-|------------|------------------|------------------|
-| bell Pepper | 100 | 100 |
-| Pasta | 100 | 100 |
-| Chilli | 100 | 100 |
-| Garlic | 100 | 100 |
-| Cheese | 100 | 100 |
-| Butter | 100 | 100 |
-| Mushrooms | 100 | 100 |
-| Peas and Carrots | 100 | 100 |
-| Green beans | 100 | 100 |
-| Tomato Sauce | 100 | 100 |
-| Corn | 100 | 100 |
-| Total | 1100 | 1100 |
+| Class Name | Number of Images out of 211 containing the Object|
+|------------|--------------------------------------------------|
+| Bell Pepper | 100  
+| Pasta | 100  
+| Chilli | 100  
+| Garlic | 100  
+| Cheese | 100  
+| Butter | 100  
+| Mushrooms | 100  
+| Peas and Carrots | 100  
+| Green beans | 100  
+| Tomato Sauce | 100  
+| Corn | 100  
+
 
 # Install and Launch Label Studio
 To install label studio to work with this dataset, install label-studio in an Poetry virtual environment:
