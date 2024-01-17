@@ -7,8 +7,8 @@ authors = ["manizheh1 <Manizheh.Zand@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.8"
-label-studio = "^1.10.1"
+python = ">=3.8,<3.11"
+label-studio = "1.8.0"
 
 
 [build-system]

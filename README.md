@@ -12,7 +12,7 @@ Translucent Containers:
 Opaque container: 
 - Mushrooms  
 - Peas and Carrots 
-- Green beans 
+- Green Beans 
 - Tomato Sauce 
 - Corn
 
