@@ -19,20 +19,19 @@ Opaque container:
 To train the dataset using your favorite deep neural Network/Frameworks, you can use Label Studio and export the rectangular bounding boxes in a wide variety of formats.
 
 # Dataset Statistics
-# TODO Fix these
-| Class Name | Number of Images out of 211 containing the Object|
-|------------|--------------------------------------------------|
-| Bell Pepper | 100  
-| Pasta | 100  
-| Chilli | 100  
-| Garlic | 100  
-| Cheese | 100  
-| Butter | 100  
-| Mushrooms | 100  
-| Peas and Carrots | 100  
-| Green beans | 100  
-| Tomato Sauce | 100  
-| Corn | 100  
+|       Class      | Image Count by Class |
+|:----------------:|:--------------------:|
+|      Cheese      |          18          |
+| Peas and Carrots |          25          |
+|      Butter      |          32          |
+|    Green Beans   |          34          |
+|       Corn       |          48          |
+|     Mushrooms    |          52          |
+|      Garlic      |          56          |
+|    Bell Pepper   |          57          |
+|   Tomato Sauce   |          58          |
+|      Chilli      |          60          |
+|       Pasta      |          62          |
 
 
 # Install and Launch Label Studio
