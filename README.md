@@ -1,5 +1,5 @@
-# Kitchen YOLO Datset
-This datset contains the Label Studio Rectangular labels for the following object classes inside respective container types:
+# Kitchen YOLO Dataset
+This dataset contains the Label Studio Rectangular labels for the following object classes inside respective container types:
 
 Translucent Containers:
 - Bell Pepper  
@@ -35,7 +35,7 @@ To train the dataset using your favorite deep neural Network/Frameworks, you can
 
 
 # Install and Launch Label Studio
-To install label studio to work with this dataset, install label-studio in an Poetry virtual environment:
+To install label studio to work with this dataset, install label-studio in a Poetry virtual environment:
 
 ```bash
 poetry install
