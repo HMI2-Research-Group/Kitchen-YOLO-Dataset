@@ -1,0 +1,53 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Bell Pepper"
+    },
+    {
+      "id": 1,
+      "name": "Butter"
+    },
+    {
+      "id": 2,
+      "name": "Cheese"
+    },
+    {
+      "id": 3,
+      "name": "Chilli"
+    },
+    {
+      "id": 4,
+      "name": "Corn"
+    },
+    {
+      "id": 5,
+      "name": "Garlic"
+    },
+    {
+      "id": 6,
+      "name": "Green Beans"
+    },
+    {
+      "id": 7,
+      "name": "Mushrooms"
+    },
+    {
+      "id": 8,
+      "name": "Pasta"
+    },
+    {
+      "id": 9,
+      "name": "Peas and Carrots"
+    },
+    {
+      "id": 10,
+      "name": "Tomato Sauce"
+    }
+  ],
+  "info": {
+    "year": 2023,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
